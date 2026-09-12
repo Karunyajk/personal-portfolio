@@ -14,3 +14,7 @@ I am a Computer Science and Engineering student interested in technology and sof
 
 ## Live Website
 My portfolio is deployed using Render.
+
+## Live Demo
+
+[View Live Website](https://personal-portfolio-9ds6.onrender.com)
